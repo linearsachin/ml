@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
+# linear regression with single feature
 
 def cost(X,y,theta):
     m = len(X)
